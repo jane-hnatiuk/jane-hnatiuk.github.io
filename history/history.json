@@ -1,0 +1,102 @@
+{
+  "testRunners.DeclinedPaymentTest:Scenario: Book flight with fake card#Given I make a booking from \"Dublin\" to \"Wroclaw\" on 12/03/2018 for 2 adults and 1 child" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "88e38d41e109f452",
+      "reportUrl" : "nulljob/Ryanair/10/allure/#testresult/88e38d41e109f452",
+      "status" : "passed",
+      "time" : {
+        "duration" : 20
+      }
+    }, {
+      "uid" : "74a662cf1a0f6e30",
+      "reportUrl" : "nulljob/Ryanair/8/allure/#testresult/74a662cf1a0f6e30",
+      "status" : "passed",
+      "time" : {
+        "duration" : 18
+      }
+    } ]
+  },
+  "testRunners.DeclinedPaymentTest:Scenario: Book flight with fake card#Then I should get payment declined message" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "c561d63652d6745e",
+      "reportUrl" : "nulljob/Ryanair/10/allure/#testresult/c561d63652d6745e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ac2edb81204aad9c",
+      "reportUrl" : "nulljob/Ryanair/8/allure/#testresult/ac2edb81204aad9c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "testRunners.DeclinedPaymentTest:Scenario: Book flight with fake card#Scenario: Book flight with fake card" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "fe4a4536e15a2c84",
+      "reportUrl" : "nulljob/Ryanair/10/allure/#testresult/fe4a4536e15a2c84",
+      "status" : "passed",
+      "time" : {
+        "duration" : 4
+      }
+    }, {
+      "uid" : "28a49def31c8e7a9",
+      "reportUrl" : "nulljob/Ryanair/8/allure/#testresult/28a49def31c8e7a9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 3
+      }
+    } ]
+  },
+  "testRunners.DeclinedPaymentTest:Scenario: Book flight with fake card#When I pay for booking with card details \"5555 5555 5555 5557\", \"10/18\" and \"265\"" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "faf84f179f1162ee",
+      "reportUrl" : "nulljob/Ryanair/10/allure/#testresult/faf84f179f1162ee",
+      "status" : "passed",
+      "time" : {
+        "duration" : 6
+      }
+    }, {
+      "uid" : "367a1d8ccd70c22f",
+      "reportUrl" : "nulljob/Ryanair/8/allure/#testresult/367a1d8ccd70c22f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 6
+      }
+    } ]
+  }
+}

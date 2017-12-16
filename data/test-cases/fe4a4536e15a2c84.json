@@ -1,0 +1,62 @@
+{
+  "uid" : "fe4a4536e15a2c84",
+  "name" : "Scenario: Book flight with fake card",
+  "historyId" : "testRunners.DeclinedPaymentTest:Scenario: Book flight with fake card#Scenario: Book flight with fake card",
+  "time" : {
+    "duration" : 4
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "testRunners.DeclinedPaymentTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Scenario: Book flight with fake card"
+  }, {
+    "name" : "package",
+    "value" : "Scenario: Book flight with fake card"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "28a49def31c8e7a9",
+        "reportUrl" : "nulljob/Ryanair/8/allure/#testresult/28a49def31c8e7a9",
+        "status" : "passed",
+        "time" : {
+          "duration" : 3
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "fe4a4536e15a2c84.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,78 @@
+{
+  "summary" : {
+    "reportName" : "Allure Report",
+    "testRuns" : [ ],
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "time" : {
+      "minDuration" : 0,
+      "maxDuration" : 20,
+      "sumDuration" : 30
+    }
+  },
+  "environment" : [ ],
+  "suites" : {
+    "total" : 1,
+    "items" : [ {
+      "uid" : "a13383a8dca165378a63a3d33f63ea1c",
+      "name" : "testRunners.DeclinedPaymentTest",
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      }
+    } ]
+  },
+  "history-trend" : [ {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "buildOrder" : 10,
+    "reportUrl" : "nulljob/Ryanair/10/allure",
+    "reportName" : "AllureReport"
+  }, {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "buildOrder" : 8,
+    "reportUrl" : "nulljob/Ryanair/8/allure",
+    "reportName" : "AllureReport"
+  } ],
+  "behaviors" : {
+    "total" : 4,
+    "items" : [ ]
+  },
+  "executors" : [ {
+    "name" : "Jenkins",
+    "type" : "jenkins",
+    "buildOrder" : 10,
+    "buildName" : "Ryanair #10",
+    "buildUrl" : "nulljob/Ryanair/10/",
+    "reportName" : "AllureReport",
+    "reportUrl" : "nulljob/Ryanair/10/allure"
+  } ],
+  "categories" : {
+    "total" : 0,
+    "items" : [ ]
+  },
+  "launches" : [ ]
+}

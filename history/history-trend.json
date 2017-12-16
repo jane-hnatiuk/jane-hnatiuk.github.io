@@ -1,0 +1,25 @@
+[ {
+  "statistic" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 4,
+    "unknown" : 0,
+    "total" : 4
+  },
+  "buildOrder" : 10,
+  "reportUrl" : "nulljob/Ryanair/10/allure",
+  "reportName" : "AllureReport"
+}, {
+  "statistic" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 4,
+    "unknown" : 0,
+    "total" : 4
+  },
+  "buildOrder" : 8,
+  "reportUrl" : "nulljob/Ryanair/8/allure",
+  "reportName" : "AllureReport"
+} ]
