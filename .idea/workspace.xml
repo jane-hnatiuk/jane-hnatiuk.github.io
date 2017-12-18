@@ -2,43 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8783f61-bddd-434f-ba13-60877ae8d41c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/behaviors.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/categories.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/graph.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/packages.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/suites.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/test-cases/88e38d41e109f452.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/test-cases/c561d63652d6745e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/test-cases/faf84f179f1162ee.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/test-cases/fe4a4536e15a2c84.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/timeline.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/widgets.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/export/mail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/export/summary.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/history/history-trend.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/history/history.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/behaviors/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/packages/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/screen-diff/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/screen-diff/styles.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/html5-boilerplate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/code.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pattern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/zip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/javascripts/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/params.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/github-dark.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/stylesheet.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles.css" afterPath="$PROJECT_DIR$/styles.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/behaviors.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/categories.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/graph.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/packages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/suites.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/test-cases/88e38d41e109f452.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/test-cases/c561d63652d6745e.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/test-cases/faf84f179f1162ee.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/test-cases/fe4a4536e15a2c84.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/timeline.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/widgets.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/export/mail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/export/summary.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/history/history-trend.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/history/history.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/behaviors/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/packages/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/screen-diff/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/screen-diff/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styles.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -67,7 +54,7 @@
     <option name="x" value="14" />
     <option name="y" value="23" />
     <option name="width" value="1400" />
-    <option name="height" value="841" />
+    <option name="height" value="840" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -84,6 +71,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -98,8 +87,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -108,6 +95,9 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -163,6 +153,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -196,31 +192,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513449031991</updated>
-      <workItem from="1513449033459" duration="855000" />
+      <workItem from="1513449033459" duration="1337000" />
+      <workItem from="1513575335680" duration="61000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="855000" />
+    <option name="totallyTimeSpent" value="1398000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="23" width="1400" height="841" extended-state="0" />
+    <frame x="14" y="23" width="1400" height="840" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24945612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328877" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -239,7 +236,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-157">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -247,7 +243,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>

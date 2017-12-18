@@ -1,45 +1,25 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
   "children" : [ {
-    "name" : "Then I should get payment declined message",
-    "uid" : "c561d63652d6745e",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "duration" : 0
-    },
-    "flaky" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Scenario: Book flight with fake card",
-    "uid" : "fe4a4536e15a2c84",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "duration" : 4
-    },
-    "flaky" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "When I pay for booking with card details \"5555 5555 5555 5557\", \"10/18\" and \"265\"",
-    "uid" : "faf84f179f1162ee",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "duration" : 6
-    },
-    "flaky" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Given I make a booking from \"Dublin\" to \"Wroclaw\" on 12/03/2018 for 2 adults and 1 child",
-    "uid" : "88e38d41e109f452",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "duration" : 20
-    },
-    "flaky" : false,
-    "parameters" : [ ]
-  } ],
-  "name" : "timeline"
+    "name" : "EugeniasMacBook",
+    "children" : [ {
+      "name" : "59720@EugeniasMacBook.main(1)",
+      "children" : [ {
+        "name" : "Book flight with fake card",
+        "uid" : "f15814bc4e082262",
+        "parentUid" : "e195ee2cec2c32f68992d2b05d99f6b4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1513574930443,
+          "stop" : 1513574980230,
+          "duration" : 49787
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e195ee2cec2c32f68992d2b05d99f6b4"
+    } ],
+    "uid" : "6b405c4bfd82232c7d9e086cd13db010"
+  } ]
 }

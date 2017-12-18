@@ -3,76 +3,78 @@
     "reportName" : "Allure Report",
     "testRuns" : [ ],
     "statistic" : {
-      "failed" : 0,
+      "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 4,
+      "passed" : 0,
       "unknown" : 0,
-      "total" : 4
+      "total" : 1
     },
     "time" : {
-      "minDuration" : 0,
-      "maxDuration" : 20,
-      "sumDuration" : 30
+      "start" : 1513574930443,
+      "stop" : 1513574980230,
+      "duration" : 49787,
+      "minDuration" : 49787,
+      "maxDuration" : 49787,
+      "sumDuration" : 49787
     }
   },
   "environment" : [ ],
   "suites" : {
     "total" : 1,
     "items" : [ {
-      "uid" : "a13383a8dca165378a63a3d33f63ea1c",
-      "name" : "testRunners.DeclinedPaymentTest",
+      "uid" : "b1d28fcee87ee438629f5ef1cb8ad9ab",
+      "name" : "Get declined message of failed payment",
       "statistic" : {
-        "failed" : 0,
+        "failed" : 1,
         "broken" : 0,
         "skipped" : 0,
-        "passed" : 4,
+        "passed" : 0,
         "unknown" : 0,
-        "total" : 4
+        "total" : 1
       }
     } ]
   },
   "history-trend" : [ {
     "statistic" : {
-      "failed" : 0,
+      "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 4,
+      "passed" : 0,
       "unknown" : 0,
-      "total" : 4
-    },
-    "buildOrder" : 10,
-    "reportUrl" : "nulljob/Ryanair/10/allure",
-    "reportName" : "AllureReport"
-  }, {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 4,
-      "unknown" : 0,
-      "total" : 4
-    },
-    "buildOrder" : 8,
-    "reportUrl" : "nulljob/Ryanair/8/allure",
-    "reportName" : "AllureReport"
+      "total" : 1
+    }
   } ],
   "behaviors" : {
-    "total" : 4,
-    "items" : [ ]
+    "total" : 1,
+    "items" : [ {
+      "uid" : "b0edb4324169c06f7888be9445c507a8",
+      "name" : "Get declined message of failed payment",
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 1
+      }
+    } ]
   },
-  "executors" : [ {
-    "name" : "Jenkins",
-    "type" : "jenkins",
-    "buildOrder" : 10,
-    "buildName" : "Ryanair #10",
-    "buildUrl" : "nulljob/Ryanair/10/",
-    "reportName" : "AllureReport",
-    "reportUrl" : "nulljob/Ryanair/10/allure"
-  } ],
+  "executors" : [ ],
   "categories" : {
-    "total" : 0,
-    "items" : [ ]
+    "total" : 1,
+    "items" : [ {
+      "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d",
+      "name" : "Product defects",
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 1
+      }
+    } ]
   },
   "launches" : [ ]
 }

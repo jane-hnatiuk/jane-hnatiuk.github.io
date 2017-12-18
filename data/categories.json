@@ -1,5 +1,25 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ ],
-  "name" : "categories"
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Element not found {prompt.error.prompt-text[text='common.components.payment_forms.error_explain_declined']}\nExpected: visible",
+      "children" : [ {
+        "name" : "Book flight with fake card",
+        "uid" : "f15814bc4e082262",
+        "parentUid" : "a94fc0b3b438acad9b84c5dbe02437e4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1513574930443,
+          "stop" : 1513574980230,
+          "duration" : 49787
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a94fc0b3b438acad9b84c5dbe02437e4"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
 }

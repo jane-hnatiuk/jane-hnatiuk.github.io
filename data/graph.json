@@ -1,33 +1,11 @@
 [ {
-  "uid" : "c561d63652d6745e",
-  "name" : "Then I should get payment declined message",
+  "uid" : "f15814bc4e082262",
+  "name" : "Book flight with fake card",
   "time" : {
-    "duration" : 0
+    "start" : 1513574930443,
+    "stop" : 1513574980230,
+    "duration" : 49787
   },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fe4a4536e15a2c84",
-  "name" : "Scenario: Book flight with fake card",
-  "time" : {
-    "duration" : 4
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "faf84f179f1162ee",
-  "name" : "When I pay for booking with card details \"5555 5555 5555 5557\", \"10/18\" and \"265\"",
-  "time" : {
-    "duration" : 6
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "88e38d41e109f452",
-  "name" : "Given I make a booking from \"Dublin\" to \"Wroclaw\" on 12/03/2018 for 2 adults and 1 child",
-  "time" : {
-    "duration" : 20
-  },
-  "status" : "passed",
+  "status" : "failed",
   "severity" : "normal"
 } ]

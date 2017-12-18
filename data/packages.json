@@ -1,49 +1,21 @@
 {
   "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
   "children" : [ {
-    "name" : "Scenario: Book flight with fake card",
+    "name" : "Get declined message of failed payment",
     "children" : [ {
-      "name" : "Then I should get payment declined message",
-      "uid" : "c561d63652d6745e",
-      "parentUid" : "3f6d789654aa76c73bc081db717bddde",
-      "status" : "passed",
+      "name" : "Book flight with fake card",
+      "uid" : "f15814bc4e082262",
+      "parentUid" : "3254ad5ff149816d5814752edbe0c264",
+      "status" : "failed",
       "time" : {
-        "duration" : 0
-      },
-      "flaky" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "Scenario: Book flight with fake card",
-      "uid" : "fe4a4536e15a2c84",
-      "parentUid" : "3f6d789654aa76c73bc081db717bddde",
-      "status" : "passed",
-      "time" : {
-        "duration" : 4
-      },
-      "flaky" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "When I pay for booking with card details \"5555 5555 5555 5557\", \"10/18\" and \"265\"",
-      "uid" : "faf84f179f1162ee",
-      "parentUid" : "3f6d789654aa76c73bc081db717bddde",
-      "status" : "passed",
-      "time" : {
-        "duration" : 6
-      },
-      "flaky" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "Given I make a booking from \"Dublin\" to \"Wroclaw\" on 12/03/2018 for 2 adults and 1 child",
-      "uid" : "88e38d41e109f452",
-      "parentUid" : "3f6d789654aa76c73bc081db717bddde",
-      "status" : "passed",
-      "time" : {
-        "duration" : 20
+        "start" : 1513574930443,
+        "stop" : 1513574980230,
+        "duration" : 49787
       },
       "flaky" : false,
       "parameters" : [ ]
     } ],
-    "uid" : "3f6d789654aa76c73bc081db717bddde"
-  } ],
-  "name" : "packages"
+    "uid" : "3254ad5ff149816d5814752edbe0c264"
+  } ]
 }
