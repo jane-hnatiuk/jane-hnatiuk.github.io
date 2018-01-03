@@ -2,16 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8783f61-bddd-434f-ba13-60877ae8d41c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/code.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/tar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/zip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/html5-boilerplate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascripts/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/params.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/github-dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/stylesheet.css" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/attachments/ba1c6ffc03f89a64.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/data/behaviors.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/data/categories.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/data/graph.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/data/packages.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/data/suites.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/test-cases/88e38d41e109f452.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/test-cases/c561d63652d6745e.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/test-cases/faf84f179f1162ee.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/test-cases/fe4a4536e15a2c84.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/test-cases/f15814bc4e082262.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/data/timeline.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/data/widgets.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/export/mail.html" afterPath="" />
@@ -19,13 +31,13 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/history/history-trend.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/history/history.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/behaviors/index.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/packages/index.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/screen-diff/index.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/screen-diff/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles.css" afterPath="$PROJECT_DIR$/styles.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,7 +51,18 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,8 +94,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -85,8 +106,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jane-hnatiuk.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jane-hnatiuk.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -95,10 +132,10 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -193,12 +230,13 @@
       <option name="presentableId" value="Default" />
       <updated>1513449031991</updated>
       <workItem from="1513449033459" duration="1337000" />
-      <workItem from="1513575335680" duration="61000" />
+      <workItem from="1513575335680" duration="458000" />
+      <workItem from="1514996959581" duration="122000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1398000" />
+    <option name="totallyTimeSpent" value="1917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="23" width="1400" height="840" extended-state="0" />
@@ -243,6 +281,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
